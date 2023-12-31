@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/Hima-Pro/gogs:latest
+          tags: ghcr.io/hima-pro/gogs:latest
