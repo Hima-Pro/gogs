@@ -1,9 +1,9 @@
-name: Docker Image CI
+name: Docker Image version
 
 on:
-  release:
-    types: [published]
-
+  workflow_dispatch:
+    inputs:
+    
 jobs:
   build-and-push-image:
     runs-on: ubuntu-latest
