@@ -14,7 +14,7 @@ docker pull tdim/gogs:latest
 
 - clone this repo
   ```sh
-  git clone https://github.com/tdim/gogs
+  git clone https://github.com/Hima-Pro/gogs
   ```
 - build with docker :
   ```sh
